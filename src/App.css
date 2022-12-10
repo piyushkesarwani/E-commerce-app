@@ -1,0 +1,119 @@
+/* .image {
+    position: relative !important;
+} */
+
+.btn {
+    position: absolute;
+    background-color: lightblue;
+    color: white;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+
+.singleItem {
+    width: 400px !important;
+    height: 400px !important;
+}
+
+.menuImageDiv {
+    width: 400px !important;
+    height: 200px !important;
+}
+
+.menuImageDiv>img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+.cartSingleItem {
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 10px !important;
+}
+
+.cartItemColumn {
+    width: auto !important;
+    height: auto !important;
+    margin: 0px 10px !important;
+    /* margin: 0px 10px !important; */
+}
+
+.cartItemImage {
+    width: 100px !important;
+    height: 80px !important;
+    /* border-radius: 50% !important; */
+}
+
+.cartItemSubtitle {
+    width: 250px !important;
+    font-size: 10px !important;
+    font-style: italic !important;
+    color: rgb(88, 86, 86) !important;
+}
+
+.leftCartSection {
+    width: 70% !important;
+    height: auto !important;
+    padding: 10px !important;
+    margin: 10px !important;
+
+}
+
+.rightCartSection {
+    width: 30% !important;
+    height: auto !important;
+}
+
+.Increment {
+    background: none !important;
+    color: black !important;
+    font-size: 20px !important;
+    border: none !important;
+}
+
+.Decrement {
+    background: none !important;
+    color: black !important;
+    font-size: 20px !important;
+    border: none !important;
+}
+
+/* 
+.cartItemHeader {
+    width: 30% !important;
+}
+
+.productQuantity {
+    width: 30% !important;
+}
+
+.cartItemPrice {
+    width: 30% !important;
+}
+
+.cartItemTotal {
+    width: 30% !important;
+} */
+
+.cartItemPrice p{
+    width: 70px !important;
+}
+
+.productQuantity {
+    width: 70px !important;
+}
+
+.underline {
+    width: 100% !important;
+    height: 2px !important;
+    background-color: rgb(218, 218, 218) !important;
+    margin: 10px 0px !important;
+}
+
+.selectBox {
+    width: 150px !important;
+    height: 40px !important;
+    padding: 10px !important;
+}

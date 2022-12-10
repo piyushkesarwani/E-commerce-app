@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b3766b0.css",
+    "main.js": "/static/js/main.fa4cd6d3.js",
+    "static/media/image3.jpg": "/static/media/image3.a7f06a366509ee575001.jpg",
+    "static/media/garlic-bread.jpg": "/static/media/garlic-bread.5875ac1205b3c8881051.jpg",
+    "static/media/image8.webp": "/static/media/image8.5ca845d7727be03a90c2.webp",
+    "static/media/image4.jpg": "/static/media/image4.fb2c7899145ff17f660f.jpg",
+    "static/media/image9.jpg": "/static/media/image9.d904811fb8106ffd6c97.jpg",
+    "static/media/image2.jpg": "/static/media/image2.29ad096f76d8df65a60d.jpg",
+    "static/media/french-fries.jpg": "/static/media/french-fries.e3bc5ffb958add5a9f14.jpg",
+    "static/media/image5.avif": "/static/media/image5.00d1e0bf97ba445558c6.avif",
+    "static/media/image7.jpg": "/static/media/image7.315abd5e6f496f23199b.jpg",
+    "static/media/non-veg-taco.jpg": "/static/media/non-veg-taco.05d3d0184c9935fa6812.jpg",
+    "static/media/cold-drinks.jpg": "/static/media/cold-drinks.39b9ebf841ae96733220.jpg",
+    "static/media/ice cream.jpg": "/static/media/ice cream.1b92ccc723db3b0b9f54.jpg",
+    "static/media/image6.jpg": "/static/media/image6.ccd664bce5297094ce77.jpg",
+    "static/media/image1.jpg": "/static/media/image1.ff09a6a1fe92cf71e750.jpg",
+    "static/media/choco-lava-cake.jpg": "/static/media/choco-lava-cake.2284fdb9d0303affa98e.jpg",
+    "static/media/ecommerce.jpg": "/static/media/ecommerce.cee1283d19f92b56dbe3.jpg",
+    "static/media/veg taco.avif": "/static/media/veg taco.05ae4a1749c058c72124.avif",
+    "static/media/choc-cake.webp": "/static/media/choc-cake.891284382c4aba4007ef.webp",
+    "index.html": "/index.html",
+    "main.8b3766b0.css.map": "/static/css/main.8b3766b0.css.map",
+    "main.fa4cd6d3.js.map": "/static/js/main.fa4cd6d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b3766b0.css",
+    "static/js/main.fa4cd6d3.js"
+  ]
+}
